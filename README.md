@@ -1,2 +1,1 @@
-# Twitter-Data-Analysis
-Twitter Data Analysis is a web application in which we gather the tweets data from Twitter using Twitter's OpenAuth API for authenticating user securely and then a variety of operations are done on the data: 1. Top 20 tweets about that topic 2. How many times that tweet has been retweeted 3. Sentiment Analysis 4. Relevant Hashtags 5. Relevant search terms 4. Number of users following a tweeter at that point of time 5. Geographical representation showing the places from which the searches are coming
+# TwitterDataAnalysis
